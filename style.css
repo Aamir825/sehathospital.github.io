@@ -151,7 +151,7 @@ footer span{color: rgb(0, 161, 100); font-weight: bold;}
 /*************************************Media Query*******************************************************************************/
 @media(max-width:950px)
 {
-    nav .logo a{letter-spacing: 0px; font-size: 14px;}
+    nav .logo a{letter-spacing: 0px; font-size: 13px;}
 }
 @media (max-width:768px)
 {
@@ -165,7 +165,7 @@ footer span{color: rgb(0, 161, 100); font-weight: bold;}
     nav .bars{display: block;}
     .blog .feature-img{width: 100%;}
     nav{height: 56px; padding: 3px 6px;}
-    nav .logo a{letter-spacing: 0px; font-size: 13px;}
+    nav .logo a{letter-spacing: 0px; font-size: 12px;}
     nav .logo-tag hr{width: 70%;}
 }
 .show{visibility: visible; opacity: 1; transform: translateY(0px);}
