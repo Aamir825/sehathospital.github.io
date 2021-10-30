@@ -38,7 +38,7 @@ nav .open.bars::after{transform: rotate(-45deg) translate(5px,5px);}
 .img-slider .slide .info{ position: absolute; top: 0; padding: 15px 30px;}
 .img-slider .slide .info h2{ color: #fff; font-size: 45px; text-transform: uppercase; font-weight: 800; letter-spacing: 2px;}
 .img-slider .slide .info p{ color: #fff; background: rgba(0, 0, 0, 0.1); font-size: 16px; width: 60%; padding: 10px; border-radius: 4px; }
-.img-slider .navigation{ z-index: 10; position: absolute; display: flex; bottom: 30px; left: 50%; transform: translateX(-50%);}
+.img-slider .navigation{ z-index: 10; position: absolute; display: flex; bottom: 4px; left: 50%; transform: translateX(-50%);}
 .img-slider .navigation .btn{ background: rgba(255, 255, 255); width: 12px; height: 12px; margin: 10px; border-radius: 50%; cursor: pointer;}
 .img-slider .navigation .btn.active{ background: rgb(225, 1, 255); box-shadow: 0 0 2px rgb(0, 226, 139)}
 
