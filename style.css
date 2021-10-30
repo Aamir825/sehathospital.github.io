@@ -184,8 +184,8 @@ footer span{color: rgb(0, 161, 100); font-weight: bold;}
     .img-slider .slide .info h2{ font-size: 25px;}
     .img-slider .slide .info p{ width: 90%; font-size: 11px;}
     .img-slider .navigation{ bottom: 10px;}
-    .gallery-img{height: 300px;}
-    .img-slider{height: 300px;}
+    .gallery-img{height: 230px;}
+    .img-slider{height: 230px;}
 }
 .show{visibility: visible; opacity: 1; transform: translateY(0px);}
 
