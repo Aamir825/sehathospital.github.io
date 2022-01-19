@@ -193,6 +193,7 @@ footer span{color: rgb(0, 161, 100); font-weight: bold;}
     .gallery-img-2{height: 260px; background-repeat: no-repeat;}
     .gallery-img-3{height: 260px; background-repeat: no-repeat;}
     .img-slider{height: 260px;}
+    nav .logo img{width: 320px; height: 65px;}
 }
 .show{visibility: visible; opacity: 1; transform: translateY(0px);}
 
