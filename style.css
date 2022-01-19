@@ -189,10 +189,10 @@ footer span{color: rgb(0, 161, 100); font-weight: bold;}
     .img-slider .slide .info h2{ font-size: 25px;}
     .img-slider .slide .info p{ width: 90%; font-size: 11px;}
     .img-slider .navigation{ bottom: 2px;}
-    .gallery-img-1{height: 260px; background-repeat: no-repeat;}
-    .gallery-img-2{height: 260px; background-repeat: no-repeat;}
-    .gallery-img-3{height: 260px; background-repeat: no-repeat;}
-    .img-slider{height: 260px;}
+    .gallery-img-1{height: 200px; background-repeat: no-repeat;}
+    .gallery-img-2{height: 200px; background-repeat: no-repeat;}
+    .gallery-img-3{height: 200px; background-repeat: no-repeat;}
+    .img-slider{height: 200px;}
     nav .logo img{width: 320px; height: 65px;}
 }
 .show{visibility: visible; opacity: 1; transform: translateY(0px);}
